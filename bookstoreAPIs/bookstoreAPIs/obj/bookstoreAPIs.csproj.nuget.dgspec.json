@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\angular\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj": {}
+    "C:\\projetos\\angular\\bookstore\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\angular\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj": {
+    "C:\\projetos\\angular\\bookstore\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\angular\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj",
+        "projectUniqueName": "C:\\projetos\\angular\\bookstore\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj",
         "projectName": "bookstoreAPIs",
-        "projectPath": "C:\\projetos\\angular\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj",
+        "projectPath": "C:\\projetos\\angular\\bookstore\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj",
         "packagesPath": "C:\\Users\\thiag\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\angular\\bookstoreAPIs\\bookstoreAPIs\\obj\\",
+        "outputPath": "C:\\projetos\\angular\\bookstore\\bookstoreAPIs\\bookstoreAPIs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thiag\\AppData\\Roaming\\NuGet\\NuGet.Config",

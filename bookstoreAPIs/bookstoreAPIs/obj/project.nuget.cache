@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4j+A2wLww/xsrP3IP5hrgGKKRndLxeIJ/KpR7ETYhCezfIsaSaarF0Va8dsTIktvyZU0XCP65lizHsMefwyJwA==",
+  "dgSpecHash": "ujNmN9ofR/CQYam5z7Zqil7Cg+tqwJOMPeCjo0hHcOaIeh4XrHMIrJiU/6WqUjZuEbad8A69mAt7CjqpaAmXIQ==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\angular\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj",
+  "projectFilePath": "C:\\projetos\\angular\\bookstore\\bookstoreAPIs\\bookstoreAPIs\\bookstoreAPIs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thiag\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\thiag\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\6.0.8\\microsoft.aspnetcore.authentication.certificate.6.0.8.nupkg.sha512",

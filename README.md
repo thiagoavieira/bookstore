@@ -1,10 +1,46 @@
+# BookstoreAPI
+
+API of a library developed in C# and the front-end with Angular.
+
+
+## API Documentation
+
+#### Returns All items
+
+```http
+  GET /api/items
+```
+
+| Parameter   | Type       | Description                           |
+| :---------- | :--------- | :---------------------------------- |
+| `ID` | `string` | **Mandatory**. Your API key |
+
+
+
+## Deploy API
+
+To deploy this project, first run the API on bookstoreAPIs.
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+
+## Dependencies
+
+• EntityFramework (6.4.4) 
+
+• Microsoft.AspNetCore.Authentication.Certificate (6.0.8)
+
+• Microsoft.EntityFrameworkCore (6.0.8)
+
+• Microsoft.EntityFrameworkCore.InMemory (6.0.8)
+
+• Swashbuckle.AspNetCore (6.2.3)
+
+• System.Linq (4.3.0)
+
 # BookstoreFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
